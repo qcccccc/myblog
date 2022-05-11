@@ -1,0 +1,18 @@
+[viewer]
+    Title = "qc的博客"
+    Description = "qccc的博客"
+    Logo = "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.csyt.cc%2Fuploads%2Fpicture%2F2021-02-24%2F60360b319cdc8.jpg&refer=http%3A%2F%2Fwww.csyt.cc&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1651558922&t=b7dc7ac90d087305e8868af014d222fe"
+    Navigation = ["首页","/", "GO语言","/golang", "归档","/pigeonhole", "关于","/about"]
+    Bilibili = "https://space.bilibili.com/"
+    Zhihu = "https://www.zhihu.com/people/ma-shen-zhi-lu"
+    Avatar = "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fs11.51cto.com%2Fimages%2F202010%2F15%2F1979d77f38312ef83b316a173b0a4389.png&refer=http%3A%2F%2Fs11.51cto.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1651558804&t=3018b5375d66c715289166441daec012"
+    UserName = "qccccc"
+    UserDesc = "许愿offer"
+[system]
+    CdnURL = "https://static.mszlu.com/goblog/es6/md-assets"
+    QiniuAccessKey = "ZPpawKpsyCXhG-fwR0OUwimFfMEUweo5VwNyvN33"
+    QiniuSecretKey = "3ROUo7SZZP-fyx8CQSQ5aYDErJLfBM9qSYcEMRsj"
+    Valine = true
+    ValineAppid = "0Tz5Lxxgebc3Y3l1RRmnf1DR-gzGzoHsz"
+    ValineAppkey = "bM8tn1IvcIp16uqopWRiim4v"
+    ValineServerURL = "https://0tz5lxxg.lc-cn-n1-shared.com"
